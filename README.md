@@ -17,7 +17,7 @@ The File Hide System is a Java-based application that allows users to hide and u
 - **Java**
 - **Maven**
 - **MySQL**
-- **Java Mail API**
+- **Java Mail API** (Reference: [Java Mail API 1.6.2](https://mvnrepository.com/artifact/com.sun.mail/javax.mail/1.6.2))
 
 ## Getting Started
 

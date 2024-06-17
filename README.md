@@ -91,6 +91,29 @@ The File Hide System is a Java-based application that allows users to hide and u
 - **View Hidden Files**: List all files that are currently hidden.
 - **Unhide a File**: Provide the unique ID of the file you want to unhide.
 
+## Screenshots
+Below are some screenshots showcasing the output and process of the File Hide System:
+
+1. Signup Process
+![Screenshot 2024-06-17 181857](https://github.com/mayurmundankar/File-Hide-System/assets/100030459/d2a8eeea-1188-4c19-9f54-53551397905d)
+
+2. Email OTP Verification
+![Group 175 (2)](https://github.com/mayurmundankar/File-Hide-System/assets/100030459/c7016897-351a-4f9d-a19c-7d1a995f3ff2)
+![Screenshot 2024-06-17 181948](https://github.com/mayurmundankar/File-Hide-System/assets/100030459/a5076c67-3885-4719-b3df-075bc549e3b0)
+
+4. Hide File
+![Screenshot 2024-06-17 182011](https://github.com/mayurmundankar/File-Hide-System/assets/100030459/a8a84b0f-7acc-46a1-9e81-ecae5e701f89)
+
+5. MySQL Command Line Client
+![Screenshot 2024-06-17 182133](https://github.com/mayurmundankar/File-Hide-System/assets/100030459/dfbc6938-62db-44a6-a5cd-0a883e909217)
+![Screenshot 2024-06-17 182141](https://github.com/mayurmundankar/File-Hide-System/assets/100030459/6f29c58c-59d2-4d63-9af2-c6a0fdea4f80)
+
+6. View Hidden Files
+![Screenshot 2024-06-17 182654](https://github.com/mayurmundankar/File-Hide-System/assets/100030459/665e4655-f2a9-4fda-96ad-2dff4f43905f)
+
+7. Unhide File
+![Screenshot 2024-06-17 182654](https://github.com/mayurmundankar/File-Hide-System/assets/100030459/91dfcdfc-8044-443d-b4c0-8551ce4ca14c)
+
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
